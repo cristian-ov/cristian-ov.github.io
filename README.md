@@ -1,4 +1,9 @@
 # OPOR-TECH
-This project is to show some development skills.
+This project is to show some development skills in.
 
-[Github Page link](https://cristian-ov.github.io/cristian-ov.github.io./){:target="_blank"}
+Python print("Hello World!")
+Javascript console.log('Hello World!');
+HTML <p>Hello World!</p>
+CSS p {color: yellow;}
+
+[Github Page link](https://cristian-ov.github.io/cristian-ov.github.io./)
